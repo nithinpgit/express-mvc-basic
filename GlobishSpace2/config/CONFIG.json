@@ -1,0 +1,7 @@
+{
+	"httpsPort": "443",
+	"cert_path": "cert/server.crt",
+	"key_path": "cert/server.key",
+	"apiKey": "45748282",
+	"apiSecret": "b43db4d781ce650052fe5865d937ba74523ab1ef"
+}
